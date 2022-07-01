@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.d7c36ee6.js",
-    "index.html": "/index.html",
-    "main.d7c36ee6.js.map": "/static/js/main.d7c36ee6.js.map"
+    "main.js": "/noteit/static/js/main.d7c36ee6.js",
+    "index.html": "/noteit/index.html",
+    "main.d7c36ee6.js.map": "/noteit/static/js/main.d7c36ee6.js.map"
   },
   "entrypoints": [
     "static/js/main.d7c36ee6.js"
