@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/noteit/static/js/main.d7c36ee6.js",
+    "main.css": "/noteit/static/css/main.a8d52412.css",
+    "main.js": "/noteit/static/js/main.d7fa2f6c.js",
     "index.html": "/noteit/index.html",
-    "main.d7c36ee6.js.map": "/noteit/static/js/main.d7c36ee6.js.map"
+    "main.a8d52412.css.map": "/noteit/static/css/main.a8d52412.css.map",
+    "main.d7fa2f6c.js.map": "/noteit/static/js/main.d7fa2f6c.js.map"
   },
   "entrypoints": [
-    "static/js/main.d7c36ee6.js"
+    "static/css/main.a8d52412.css",
+    "static/js/main.d7fa2f6c.js"
   ]
 }
